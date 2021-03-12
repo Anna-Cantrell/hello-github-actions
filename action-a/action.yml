@@ -3,10 +3,10 @@ description: "Greet someone"
 author: "octocat@github.com"
 
 inputs:
-  MY_NAME:
+  HOT_SAUCE:
     description: "Who to greet"
     required: true
-    default: "World"
+    default: "Tabasaco"
 
 runs:
   using: "docker"
